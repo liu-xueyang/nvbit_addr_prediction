@@ -1,0 +1,6 @@
+[submodule "test-apps/gpu-rodinia"]
+	path = test-apps/gpu-rodinia
+	url = git@github.com:yuhc/gpu-rodinia.git
+[submodule "switch-cuda"]
+	path = switch-cuda
+	url = git@github.com:phohenecker/switch-cuda.git
